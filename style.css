@@ -1,0 +1,132 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    width: 500x auto;
+    height: 700px;
+    background-image: url(Capture.PNG);
+    
+    /* border: 1px solid violet; */
+}
+.bd{
+    background-color: black;
+    background-image: url(Capture.PNG);
+    
+}
+.content{
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    padding-top: 100px;
+    padding: 10px 0px 0px 50px;
+}
+h3{
+    font-size: xx-large;
+}
+.in{
+    /* font-size: 27px; */
+    /* padding-right: 170px;
+    margin: 0px 0px 15px 0px; */
+    padding: 9px 0px;
+    padding-left: 1px;
+    padding-right: 170px;
+    margin-bottom: 20px;
+}
+h1{
+    color: red;
+    /* border: 1px solid black; */
+    background-color: rgba(0,0,0,0.4);
+    font-size:70px;
+    padding-left: 20px;
+}
+.check{
+    font-size: small;
+}
+a.a1{
+    color: white;
+    padding-left: 160px;
+    /* border: 1px solid; */
+}
+button{
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    font-size: 27px;
+    text-align: center;
+    padding: 10px 0px;
+    padding-left: 120px;
+    padding-right: 140px;
+    border-radius: 4px;
+    
+}
+.discr{
+    color: white;
+    font-size: small;
+    /* border: 1px solid blue; */
+    margin-right: 55px
+}
+a.a1{
+    color: white;
+    text-decoration: none;
+
+}
+.p1{
+    /* border: 1px solid white; */
+    margin-bottom: 2px;
+    
+}
+a.singup{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+a.lasta{
+    color: blue;
+}
+a.singup:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a.a1:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.abd{
+   
+    /* font-family: 'Mouse Memoirs', sans-serif; */
+    font-family: 'Pacifico';
+    font-weight: lighter;
+    text-align: right;
+    /* border: 1px solid white; */
+}
+.faris{
+    /* font-family: 'Mouse Memoirs', sans-serif; */
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-weight: lighter;
+    margin-top: -19px;
+    text-align: right;
+    /* border: 1px solid white; */
+}
+/*.bd {
+    overflow: hidden;
+    position: relative
+}
+.bgc {
+    opacity: 0.6;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+  }
+  
+  .content {
+    position: relative;
+  }
+  img{
+    border: 1px solid blue;
+    width:  auto;
+    height: auto;
+  } */

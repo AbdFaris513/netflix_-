@@ -1,0 +1,64 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    color: red;
+}
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    /* border: 1px solid blue; */
+    width: auto;
+    height: 1000px;
+}
+h1{
+    font-size: 50px;
+}
+div{
+    width: 1000px auto ;
+}
+a[class^='p']{
+    padding-left: 50px;
+}
+li.l1{
+    display: inline;
+    padding-left: 18px;
+}
+li.l2{
+    display: inline;
+    padding-left: 30px;
+}
+li.l3{
+    display: inline;
+    padding-left: 80px;
+}
+li.l4{
+    display: inline;
+    padding-left: 90px;
+}
+li.l5{
+    display: inline;
+    padding-left: 48px;
+}
+li.l6{
+    display: inline;
+    padding-left: 45px;
+}
+li.l7{
+    display: inline;
+    padding-left: 70px;
+}
+li.l8{
+    display: inline;
+    padding-left: 78px;
+
+}
+span{
+    display:block;
+}
+p{
+    font-size: 20px;
+}
+div.heading{
+    padding-left: 15px;
+}
